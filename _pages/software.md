@@ -1,7 +1,7 @@
 ---
-title: "Browne Group - Home"
+title: "Browne Group - Software"
 layout: textlay
-excerpt: "Browne Group at Leiden University &rarr; LMU."
+excerpt: "Browne Group at UCL"
 sitemap: false
 permalink: /software/
 ---
